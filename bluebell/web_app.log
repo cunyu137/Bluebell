@@ -1,0 +1,118 @@
+{"level":"DEBUG","time":"2026-04-02T17:54:36.392+0800","caller":"bluebell/main.go:27","msg":"logger init success..."}
+{"level":"INFO","time":"2026-04-02T17:54:36.457+0800","caller":"mysql/mysql.go:33","msg":"数据库连接成功","host":"localhost","port":3306,"database":"bluebell"}
+{"level":"INFO","time":"2026-04-02T17:54:36.513+0800","caller":"logger/logger.go:77","msg":"/debug/pool-stats","status":200,"method":"GET","path":"/debug/pool-stats","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT; Windows NT 10.0; zh-CN) WindowsPowerShell/5.1.26100.7920","errors":"","cost":0.0003061}
+{"level":"INFO","time":"2026-04-02T17:54:38.676+0800","caller":"logger/logger.go:77","msg":"/debug/pool-stats","status":200,"method":"GET","path":"/debug/pool-stats","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT; Windows NT 10.0; zh-CN) WindowsPowerShell/5.1.26100.7920","errors":"","cost":0}
+{"level":"INFO","time":"2026-04-02T17:54:40.797+0800","caller":"logger/logger.go:77","msg":"/debug/pool-stats","status":200,"method":"GET","path":"/debug/pool-stats","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT; Windows NT 10.0; zh-CN) WindowsPowerShell/5.1.26100.7920","errors":"","cost":0}
+{"level":"INFO","time":"2026-04-02T17:54:41.487+0800","caller":"mysql/stats.go:18","msg":"MySQL连接池状态","最大连接数":500,"当前打开数":1,"使用中":0,"空闲":1,"等待次数":0,"等待总时长":0}
+{"level":"INFO","time":"2026-04-02T17:54:42.917+0800","caller":"logger/logger.go:77","msg":"/debug/pool-stats","status":200,"method":"GET","path":"/debug/pool-stats","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT; Windows NT 10.0; zh-CN) WindowsPowerShell/5.1.26100.7920","errors":"","cost":0}
+{"level":"INFO","time":"2026-04-02T17:54:45.046+0800","caller":"logger/logger.go:77","msg":"/debug/pool-stats","status":200,"method":"GET","path":"/debug/pool-stats","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT; Windows NT 10.0; zh-CN) WindowsPowerShell/5.1.26100.7920","errors":"","cost":0}
+{"level":"INFO","time":"2026-04-02T17:54:46.487+0800","caller":"mysql/stats.go:18","msg":"MySQL连接池状态","最大连接数":500,"当前打开数":1,"使用中":0,"空闲":1,"等待次数":0,"等待总时长":0}
+{"level":"INFO","time":"2026-04-02T17:54:47.159+0800","caller":"logger/logger.go:77","msg":"/debug/pool-stats","status":200,"method":"GET","path":"/debug/pool-stats","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT; Windows NT 10.0; zh-CN) WindowsPowerShell/5.1.26100.7920","errors":"","cost":0}
+{"level":"INFO","time":"2026-04-02T17:54:49.267+0800","caller":"logger/logger.go:77","msg":"/debug/pool-stats","status":200,"method":"GET","path":"/debug/pool-stats","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT; Windows NT 10.0; zh-CN) WindowsPowerShell/5.1.26100.7920","errors":"","cost":0}
+{"level":"INFO","time":"2026-04-02T17:54:51.380+0800","caller":"logger/logger.go:77","msg":"/debug/pool-stats","status":200,"method":"GET","path":"/debug/pool-stats","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT; Windows NT 10.0; zh-CN) WindowsPowerShell/5.1.26100.7920","errors":"","cost":0}
+{"level":"INFO","time":"2026-04-02T17:54:51.487+0800","caller":"mysql/stats.go:18","msg":"MySQL连接池状态","最大连接数":500,"当前打开数":1,"使用中":0,"空闲":1,"等待次数":0,"等待总时长":0}
+{"level":"INFO","time":"2026-04-02T17:54:53.481+0800","caller":"logger/logger.go:77","msg":"/debug/pool-stats","status":200,"method":"GET","path":"/debug/pool-stats","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT; Windows NT 10.0; zh-CN) WindowsPowerShell/5.1.26100.7920","errors":"","cost":0}
+{"level":"INFO","time":"2026-04-02T17:54:55.587+0800","caller":"logger/logger.go:77","msg":"/debug/pool-stats","status":200,"method":"GET","path":"/debug/pool-stats","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT; Windows NT 10.0; zh-CN) WindowsPowerShell/5.1.26100.7920","errors":"","cost":0.000859}
+{"level":"INFO","time":"2026-04-02T17:54:56.488+0800","caller":"mysql/stats.go:18","msg":"MySQL连接池状态","最大连接数":500,"当前打开数":1,"使用中":0,"空闲":1,"等待次数":0,"等待总时长":0}
+{"level":"INFO","time":"2026-04-02T17:54:57.745+0800","caller":"logger/logger.go:77","msg":"/debug/pool-stats","status":200,"method":"GET","path":"/debug/pool-stats","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT; Windows NT 10.0; zh-CN) WindowsPowerShell/5.1.26100.7920","errors":"","cost":0.00032}
+{"level":"INFO","time":"2026-04-02T17:55:01.487+0800","caller":"mysql/stats.go:18","msg":"MySQL连接池状态","最大连接数":500,"当前打开数":1,"使用中":0,"空闲":1,"等待次数":0,"等待总时长":0}
+{"level":"INFO","time":"2026-04-02T17:55:06.488+0800","caller":"mysql/stats.go:18","msg":"MySQL连接池状态","最大连接数":500,"当前打开数":1,"使用中":0,"空闲":1,"等待次数":0,"等待总时长":0}
+{"level":"INFO","time":"2026-04-02T17:55:11.487+0800","caller":"mysql/stats.go:18","msg":"MySQL连接池状态","最大连接数":500,"当前打开数":1,"使用中":0,"空闲":1,"等待次数":0,"等待总时长":0}
+{"level":"INFO","time":"2026-04-02T17:55:16.488+0800","caller":"mysql/stats.go:18","msg":"MySQL连接池状态","最大连接数":500,"当前打开数":1,"使用中":0,"空闲":1,"等待次数":0,"等待总时长":0}
+{"level":"INFO","time":"2026-04-02T17:55:21.487+0800","caller":"mysql/stats.go:18","msg":"MySQL连接池状态","最大连接数":500,"当前打开数":1,"使用中":0,"空闲":1,"等待次数":0,"等待总时长":0}
+{"level":"INFO","time":"2026-04-02T17:55:26.487+0800","caller":"mysql/stats.go:18","msg":"MySQL连接池状态","最大连接数":500,"当前打开数":1,"使用中":0,"空闲":1,"等待次数":0,"等待总时长":0}
+{"level":"INFO","time":"2026-04-02T17:55:31.487+0800","caller":"mysql/stats.go:18","msg":"MySQL连接池状态","最大连接数":500,"当前打开数":1,"使用中":0,"空闲":1,"等待次数":0,"等待总时长":0}
+{"level":"INFO","time":"2026-04-02T17:55:36.495+0800","caller":"mysql/stats.go:18","msg":"MySQL连接池状态","最大连接数":500,"当前打开数":1,"使用中":0,"空闲":1,"等待次数":0,"等待总时长":0}
+{"level":"INFO","time":"2026-04-02T17:55:41.494+0800","caller":"mysql/stats.go:18","msg":"MySQL连接池状态","最大连接数":500,"当前打开数":1,"使用中":0,"空闲":1,"等待次数":0,"等待总时长":0}
+{"level":"INFO","time":"2026-04-02T17:55:46.492+0800","caller":"mysql/stats.go:18","msg":"MySQL连接池状态","最大连接数":500,"当前打开数":1,"使用中":0,"空闲":1,"等待次数":0,"等待总时长":0}
+{"level":"INFO","time":"2026-04-02T17:55:51.498+0800","caller":"mysql/stats.go:18","msg":"MySQL连接池状态","最大连接数":500,"当前打开数":1,"使用中":0,"空闲":1,"等待次数":0,"等待总时长":0}
+{"level":"INFO","time":"2026-04-02T17:55:56.488+0800","caller":"mysql/stats.go:18","msg":"MySQL连接池状态","最大连接数":500,"当前打开数":1,"使用中":0,"空闲":1,"等待次数":0,"等待总时长":0}
+{"level":"INFO","time":"2026-04-02T17:56:01.488+0800","caller":"mysql/stats.go:18","msg":"MySQL连接池状态","最大连接数":500,"当前打开数":1,"使用中":0,"空闲":1,"等待次数":0,"等待总时长":0}
+{"level":"INFO","time":"2026-04-02T17:56:06.488+0800","caller":"mysql/stats.go:18","msg":"MySQL连接池状态","最大连接数":500,"当前打开数":1,"使用中":0,"空闲":1,"等待次数":0,"等待总时长":0}
+{"level":"INFO","time":"2026-04-02T17:56:11.487+0800","caller":"mysql/stats.go:18","msg":"MySQL连接池状态","最大连接数":500,"当前打开数":1,"使用中":0,"空闲":1,"等待次数":0,"等待总时长":0}
+{"level":"INFO","time":"2026-04-02T17:56:16.488+0800","caller":"mysql/stats.go:18","msg":"MySQL连接池状态","最大连接数":500,"当前打开数":1,"使用中":0,"空闲":1,"等待次数":0,"等待总时长":0}
+{"level":"DEBUG","time":"2026-04-02T17:56:32.376+0800","caller":"bluebell/main.go:27","msg":"logger init success..."}
+{"level":"INFO","time":"2026-04-02T17:56:32.436+0800","caller":"mysql/mysql.go:33","msg":"数据库连接成功","host":"localhost","port":3306,"database":"bluebell"}
+{"level":"INFO","time":"2026-04-02T17:56:32.437+0800","caller":"mysql/mysql.go:39","msg":"数据库连接池配置","MaxOpenConns":500,"MaxIdleConns":300,"实际设置的最大连接数":500}
+{"level":"INFO","time":"2026-04-02T17:56:37.451+0800","caller":"mysql/stats.go:18","msg":"MySQL连接池状态","最大连接数":500,"当前打开数":1,"使用中":0,"空闲":1,"等待次数":0,"等待总时长":0}
+{"level":"INFO","time":"2026-04-02T17:56:42.451+0800","caller":"mysql/stats.go:18","msg":"MySQL连接池状态","最大连接数":500,"当前打开数":1,"使用中":0,"空闲":1,"等待次数":0,"等待总时长":0}
+{"level":"INFO","time":"2026-04-02T17:56:47.451+0800","caller":"mysql/stats.go:18","msg":"MySQL连接池状态","最大连接数":500,"当前打开数":1,"使用中":0,"空闲":1,"等待次数":0,"等待总时长":0}
+{"level":"INFO","time":"2026-04-02T17:56:52.450+0800","caller":"mysql/stats.go:18","msg":"MySQL连接池状态","最大连接数":500,"当前打开数":1,"使用中":0,"空闲":1,"等待次数":0,"等待总时长":0}
+{"level":"INFO","time":"2026-04-02T17:56:57.450+0800","caller":"mysql/stats.go:18","msg":"MySQL连接池状态","最大连接数":500,"当前打开数":1,"使用中":0,"空闲":1,"等待次数":0,"等待总时长":0}
+{"level":"INFO","time":"2026-04-02T17:57:02.450+0800","caller":"mysql/stats.go:18","msg":"MySQL连接池状态","最大连接数":500,"当前打开数":1,"使用中":0,"空闲":1,"等待次数":0,"等待总时长":0}
+{"level":"INFO","time":"2026-04-02T17:57:07.451+0800","caller":"mysql/stats.go:18","msg":"MySQL连接池状态","最大连接数":500,"当前打开数":1,"使用中":0,"空闲":1,"等待次数":0,"等待总时长":0}
+{"level":"INFO","time":"2026-04-02T17:57:12.451+0800","caller":"mysql/stats.go:18","msg":"MySQL连接池状态","最大连接数":500,"当前打开数":1,"使用中":0,"空闲":1,"等待次数":0,"等待总时长":0}
+{"level":"INFO","time":"2026-04-02T17:57:17.451+0800","caller":"mysql/stats.go:18","msg":"MySQL连接池状态","最大连接数":500,"当前打开数":1,"使用中":0,"空闲":1,"等待次数":0,"等待总时长":0}
+{"level":"INFO","time":"2026-04-02T17:57:22.451+0800","caller":"mysql/stats.go:18","msg":"MySQL连接池状态","最大连接数":500,"当前打开数":1,"使用中":0,"空闲":1,"等待次数":0,"等待总时长":0}
+{"level":"INFO","time":"2026-04-02T17:57:27.451+0800","caller":"mysql/stats.go:18","msg":"MySQL连接池状态","最大连接数":500,"当前打开数":1,"使用中":0,"空闲":1,"等待次数":0,"等待总时长":0}
+{"level":"INFO","time":"2026-04-02T17:57:32.450+0800","caller":"mysql/stats.go:18","msg":"MySQL连接池状态","最大连接数":500,"当前打开数":1,"使用中":0,"空闲":1,"等待次数":0,"等待总时长":0}
+{"level":"INFO","time":"2026-04-02T17:57:37.451+0800","caller":"mysql/stats.go:18","msg":"MySQL连接池状态","最大连接数":500,"当前打开数":1,"使用中":0,"空闲":1,"等待次数":0,"等待总时长":0}
+{"level":"INFO","time":"2026-04-02T17:57:42.451+0800","caller":"mysql/stats.go:18","msg":"MySQL连接池状态","最大连接数":500,"当前打开数":1,"使用中":0,"空闲":1,"等待次数":0,"等待总时长":0}
+{"level":"INFO","time":"2026-04-02T17:57:47.450+0800","caller":"mysql/stats.go:18","msg":"MySQL连接池状态","最大连接数":500,"当前打开数":1,"使用中":0,"空闲":1,"等待次数":0,"等待总时长":0}
+{"level":"INFO","time":"2026-04-02T17:57:52.451+0800","caller":"mysql/stats.go:18","msg":"MySQL连接池状态","最大连接数":500,"当前打开数":1,"使用中":0,"空闲":1,"等待次数":0,"等待总时长":0}
+{"level":"INFO","time":"2026-04-02T17:57:57.451+0800","caller":"mysql/stats.go:18","msg":"MySQL连接池状态","最大连接数":500,"当前打开数":1,"使用中":0,"空闲":1,"等待次数":0,"等待总时长":0}
+{"level":"INFO","time":"2026-04-02T17:58:02.451+0800","caller":"mysql/stats.go:18","msg":"MySQL连接池状态","最大连接数":500,"当前打开数":1,"使用中":0,"空闲":1,"等待次数":0,"等待总时长":0}
+{"level":"INFO","time":"2026-04-02T17:58:07.452+0800","caller":"mysql/stats.go:18","msg":"MySQL连接池状态","最大连接数":500,"当前打开数":1,"使用中":0,"空闲":1,"等待次数":0,"等待总时长":0}
+{"level":"INFO","time":"2026-04-02T17:58:12.451+0800","caller":"mysql/stats.go:18","msg":"MySQL连接池状态","最大连接数":500,"当前打开数":1,"使用中":0,"空闲":1,"等待次数":0,"等待总时长":0}
+{"level":"INFO","time":"2026-04-02T17:58:17.451+0800","caller":"mysql/stats.go:18","msg":"MySQL连接池状态","最大连接数":500,"当前打开数":1,"使用中":0,"空闲":1,"等待次数":0,"等待总时长":0}
+{"level":"INFO","time":"2026-04-02T17:58:22.451+0800","caller":"mysql/stats.go:18","msg":"MySQL连接池状态","最大连接数":500,"当前打开数":1,"使用中":0,"空闲":1,"等待次数":0,"等待总时长":0}
+{"level":"INFO","time":"2026-04-02T17:58:27.451+0800","caller":"mysql/stats.go:18","msg":"MySQL连接池状态","最大连接数":500,"当前打开数":1,"使用中":0,"空闲":1,"等待次数":0,"等待总时长":0}
+{"level":"DEBUG","time":"2026-04-02T17:58:33.922+0800","caller":"bluebell/main.go:27","msg":"logger init success..."}
+{"level":"INFO","time":"2026-04-02T17:58:33.982+0800","caller":"mysql/mysql.go:33","msg":"数据库连接成功","host":"localhost","port":3306,"database":"bluebell"}
+{"level":"INFO","time":"2026-04-02T17:58:33.983+0800","caller":"mysql/mysql.go:39","msg":"数据库连接池配置","MaxOpenConns":500,"MaxIdleConns":300,"实际设置的最大连接数":500}
+{"level":"INFO","time":"2026-04-02T17:58:38.997+0800","caller":"mysql/stats.go:18","msg":"MySQL连接池状态","最大连接数":500,"当前打开数":1,"使用中":0,"空闲":1,"等待次数":0,"等待总时长":0}
+{"level":"INFO","time":"2026-04-02T17:58:43.997+0800","caller":"mysql/stats.go:18","msg":"MySQL连接池状态","最大连接数":500,"当前打开数":1,"使用中":0,"空闲":1,"等待次数":0,"等待总时长":0}
+{"level":"INFO","time":"2026-04-02T17:58:48.997+0800","caller":"mysql/stats.go:18","msg":"MySQL连接池状态","最大连接数":500,"当前打开数":1,"使用中":0,"空闲":1,"等待次数":0,"等待总时长":0}
+{"level":"INFO","time":"2026-04-02T17:58:53.998+0800","caller":"mysql/stats.go:18","msg":"MySQL连接池状态","最大连接数":500,"当前打开数":1,"使用中":0,"空闲":1,"等待次数":0,"等待总时长":0}
+{"level":"INFO","time":"2026-04-02T17:58:58.997+0800","caller":"mysql/stats.go:18","msg":"MySQL连接池状态","最大连接数":500,"当前打开数":1,"使用中":0,"空闲":1,"等待次数":0,"等待总时长":0}
+{"level":"INFO","time":"2026-04-02T17:59:03.997+0800","caller":"mysql/stats.go:18","msg":"MySQL连接池状态","最大连接数":500,"当前打开数":1,"使用中":0,"空闲":1,"等待次数":0,"等待总时长":0}
+{"level":"INFO","time":"2026-04-02T17:59:08.997+0800","caller":"mysql/stats.go:18","msg":"MySQL连接池状态","最大连接数":500,"当前打开数":1,"使用中":0,"空闲":1,"等待次数":0,"等待总时长":0}
+{"level":"INFO","time":"2026-04-02T17:59:13.997+0800","caller":"mysql/stats.go:18","msg":"MySQL连接池状态","最大连接数":500,"当前打开数":1,"使用中":0,"空闲":1,"等待次数":0,"等待总时长":0}
+{"level":"INFO","time":"2026-04-02T17:59:18.997+0800","caller":"mysql/stats.go:18","msg":"MySQL连接池状态","最大连接数":500,"当前打开数":1,"使用中":0,"空闲":1,"等待次数":0,"等待总时长":0}
+{"level":"INFO","time":"2026-04-02T17:59:23.997+0800","caller":"mysql/stats.go:18","msg":"MySQL连接池状态","最大连接数":500,"当前打开数":1,"使用中":0,"空闲":1,"等待次数":0,"等待总时长":0}
+{"level":"INFO","time":"2026-04-02T17:59:28.997+0800","caller":"mysql/stats.go:18","msg":"MySQL连接池状态","最大连接数":500,"当前打开数":1,"使用中":0,"空闲":1,"等待次数":0,"等待总时长":0}
+{"level":"INFO","time":"2026-04-02T17:59:33.997+0800","caller":"mysql/stats.go:18","msg":"MySQL连接池状态","最大连接数":500,"当前打开数":1,"使用中":0,"空闲":1,"等待次数":0,"等待总时长":0}
+{"level":"INFO","time":"2026-04-02T17:59:38.997+0800","caller":"mysql/stats.go:18","msg":"MySQL连接池状态","最大连接数":500,"当前打开数":1,"使用中":0,"空闲":1,"等待次数":0,"等待总时长":0}
+{"level":"INFO","time":"2026-04-02T17:59:43.999+0800","caller":"mysql/stats.go:18","msg":"MySQL连接池状态","最大连接数":500,"当前打开数":1,"使用中":0,"空闲":1,"等待次数":0,"等待总时长":0}
+{"level":"INFO","time":"2026-04-02T17:59:48.997+0800","caller":"mysql/stats.go:18","msg":"MySQL连接池状态","最大连接数":500,"当前打开数":1,"使用中":0,"空闲":1,"等待次数":0,"等待总时长":0}
+{"level":"INFO","time":"2026-04-02T17:59:53.997+0800","caller":"mysql/stats.go:18","msg":"MySQL连接池状态","最大连接数":500,"当前打开数":1,"使用中":0,"空闲":1,"等待次数":0,"等待总时长":0}
+{"level":"INFO","time":"2026-04-02T17:59:58.998+0800","caller":"mysql/stats.go:18","msg":"MySQL连接池状态","最大连接数":500,"当前打开数":1,"使用中":0,"空闲":1,"等待次数":0,"等待总时长":0}
+{"level":"INFO","time":"2026-04-02T18:00:03.997+0800","caller":"mysql/stats.go:18","msg":"MySQL连接池状态","最大连接数":500,"当前打开数":1,"使用中":0,"空闲":1,"等待次数":0,"等待总时长":0}
+{"level":"INFO","time":"2026-04-02T18:00:08.997+0800","caller":"mysql/stats.go:18","msg":"MySQL连接池状态","最大连接数":500,"当前打开数":1,"使用中":0,"空闲":1,"等待次数":0,"等待总时长":0}
+{"level":"INFO","time":"2026-04-02T18:00:13.997+0800","caller":"mysql/stats.go:18","msg":"MySQL连接池状态","最大连接数":500,"当前打开数":1,"使用中":0,"空闲":1,"等待次数":0,"等待总时长":0}
+{"level":"INFO","time":"2026-04-02T18:00:18.997+0800","caller":"mysql/stats.go:18","msg":"MySQL连接池状态","最大连接数":500,"当前打开数":1,"使用中":0,"空闲":1,"等待次数":0,"等待总时长":0}
+{"level":"INFO","time":"2026-04-02T18:00:23.996+0800","caller":"mysql/stats.go:18","msg":"MySQL连接池状态","最大连接数":500,"当前打开数":1,"使用中":0,"空闲":1,"等待次数":0,"等待总时长":0}
+{"level":"INFO","time":"2026-04-02T18:00:28.998+0800","caller":"mysql/stats.go:18","msg":"MySQL连接池状态","最大连接数":500,"当前打开数":1,"使用中":0,"空闲":1,"等待次数":0,"等待总时长":0}
+{"level":"INFO","time":"2026-04-02T18:00:33.997+0800","caller":"mysql/stats.go:18","msg":"MySQL连接池状态","最大连接数":500,"当前打开数":1,"使用中":0,"空闲":1,"等待次数":0,"等待总时长":0}
+{"level":"INFO","time":"2026-04-02T18:00:38.997+0800","caller":"mysql/stats.go:18","msg":"MySQL连接池状态","最大连接数":500,"当前打开数":1,"使用中":0,"空闲":1,"等待次数":0,"等待总时长":0}
+{"level":"INFO","time":"2026-04-02T18:00:43.997+0800","caller":"mysql/stats.go:18","msg":"MySQL连接池状态","最大连接数":500,"当前打开数":1,"使用中":0,"空闲":1,"等待次数":0,"等待总时长":0}
+{"level":"DEBUG","time":"2026-04-02T18:01:04.811+0800","caller":"bluebell/main.go:27","msg":"logger init success..."}
+{"level":"INFO","time":"2026-04-02T18:01:04.867+0800","caller":"mysql/mysql.go:33","msg":"数据库连接成功","host":"localhost","port":3306,"database":"bluebell"}
+{"level":"INFO","time":"2026-04-02T18:01:04.867+0800","caller":"mysql/mysql.go:39","msg":"数据库连接池配置","MaxOpenConns":500,"MaxIdleConns":300,"实际设置的最大连接数":500}
+{"level":"INFO","time":"2026-04-02T18:01:09.879+0800","caller":"mysql/stats.go:18","msg":"MySQL连接池状态","最大连接数":500,"当前打开数":1,"使用中":0,"空闲":1,"等待次数":0,"等待总时长":0}
+{"level":"INFO","time":"2026-04-02T18:01:14.879+0800","caller":"mysql/stats.go:18","msg":"MySQL连接池状态","最大连接数":500,"当前打开数":1,"使用中":0,"空闲":1,"等待次数":0,"等待总时长":0}
+{"level":"INFO","time":"2026-04-02T18:01:19.879+0800","caller":"mysql/stats.go:18","msg":"MySQL连接池状态","最大连接数":500,"当前打开数":1,"使用中":0,"空闲":1,"等待次数":0,"等待总时长":0}
+{"level":"DEBUG","time":"2026-04-02T18:02:34.116+0800","caller":"bluebell/main.go:27","msg":"logger init success..."}
+{"level":"INFO","time":"2026-04-02T18:02:34.179+0800","caller":"mysql/mysql.go:33","msg":"数据库连接成功","host":"localhost","port":3306,"database":"bluebell"}
+{"level":"INFO","time":"2026-04-02T18:02:34.181+0800","caller":"mysql/mysql.go:39","msg":"数据库连接池配置","MaxOpenConns":500,"MaxIdleConns":300,"实际设置的最大连接数":500}
+{"level":"INFO","time":"2026-04-02T18:02:39.192+0800","caller":"mysql/stats.go:18","msg":"MySQL连接池状态","最大连接数":500,"当前打开数":1,"使用中":0,"空闲":1,"等待次数":0,"等待总时长":0}
+{"level":"INFO","time":"2026-04-02T18:02:44.192+0800","caller":"mysql/stats.go:18","msg":"MySQL连接池状态","最大连接数":500,"当前打开数":1,"使用中":0,"空闲":1,"等待次数":0,"等待总时长":0}
+{"level":"INFO","time":"2026-04-02T18:02:49.192+0800","caller":"mysql/stats.go:18","msg":"MySQL连接池状态","最大连接数":500,"当前打开数":1,"使用中":0,"空闲":1,"等待次数":0,"等待总时长":0}
+{"level":"INFO","time":"2026-04-02T18:02:54.192+0800","caller":"mysql/stats.go:18","msg":"MySQL连接池状态","最大连接数":500,"当前打开数":1,"使用中":0,"空闲":1,"等待次数":0,"等待总时长":0}
+{"level":"INFO","time":"2026-04-02T18:02:59.192+0800","caller":"mysql/stats.go:18","msg":"MySQL连接池状态","最大连接数":500,"当前打开数":1,"使用中":0,"空闲":1,"等待次数":0,"等待总时长":0}
+{"level":"INFO","time":"2026-04-02T18:03:04.192+0800","caller":"mysql/stats.go:18","msg":"MySQL连接池状态","最大连接数":500,"当前打开数":1,"使用中":0,"空闲":1,"等待次数":0,"等待总时长":0}
+{"level":"INFO","time":"2026-04-02T18:03:09.192+0800","caller":"mysql/stats.go:18","msg":"MySQL连接池状态","最大连接数":500,"当前打开数":1,"使用中":0,"空闲":1,"等待次数":0,"等待总时长":0}
+{"level":"INFO","time":"2026-04-02T18:03:14.192+0800","caller":"mysql/stats.go:18","msg":"MySQL连接池状态","最大连接数":500,"当前打开数":1,"使用中":0,"空闲":1,"等待次数":0,"等待总时长":0}
+{"level":"INFO","time":"2026-04-02T18:03:19.192+0800","caller":"mysql/stats.go:18","msg":"MySQL连接池状态","最大连接数":500,"当前打开数":1,"使用中":0,"空闲":1,"等待次数":0,"等待总时长":0}
+{"level":"DEBUG","time":"2026-04-02T18:03:26.396+0800","caller":"bluebell/main.go:27","msg":"logger init success..."}
+{"level":"INFO","time":"2026-04-02T18:03:26.454+0800","caller":"mysql/mysql.go:33","msg":"数据库连接成功","host":"localhost","port":3306,"database":"bluebell"}
+{"level":"INFO","time":"2026-04-02T18:03:26.454+0800","caller":"mysql/mysql.go:39","msg":"数据库连接池配置","MaxOpenConns":500,"MaxIdleConns":300,"实际设置的最大连接数":500}
+{"level":"INFO","time":"2026-04-02T18:03:31.463+0800","caller":"mysql/stats.go:18","msg":"MySQL连接池状态","最大连接数":500,"当前打开数":1,"使用中":0,"空闲":1,"等待次数":0,"等待总时长":0}
+{"level":"INFO","time":"2026-04-02T18:03:36.463+0800","caller":"mysql/stats.go:18","msg":"MySQL连接池状态","最大连接数":500,"当前打开数":1,"使用中":0,"空闲":1,"等待次数":0,"等待总时长":0}
+{"level":"INFO","time":"2026-04-02T18:03:41.463+0800","caller":"mysql/stats.go:18","msg":"MySQL连接池状态","最大连接数":500,"当前打开数":1,"使用中":0,"空闲":1,"等待次数":0,"等待总时长":0}
+{"level":"INFO","time":"2026-04-02T18:03:46.463+0800","caller":"mysql/stats.go:18","msg":"MySQL连接池状态","最大连接数":500,"当前打开数":1,"使用中":0,"空闲":1,"等待次数":0,"等待总时长":0}
+{"level":"INFO","time":"2026-04-02T18:03:51.463+0800","caller":"mysql/stats.go:18","msg":"MySQL连接池状态","最大连接数":500,"当前打开数":1,"使用中":0,"空闲":1,"等待次数":0,"等待总时长":0}
+{"level":"INFO","time":"2026-04-02T18:03:56.467+0800","caller":"mysql/stats.go:18","msg":"MySQL连接池状态","最大连接数":500,"当前打开数":1,"使用中":0,"空闲":1,"等待次数":0,"等待总时长":0}
+{"level":"INFO","time":"2026-04-02T18:04:01.463+0800","caller":"mysql/stats.go:18","msg":"MySQL连接池状态","最大连接数":500,"当前打开数":1,"使用中":0,"空闲":1,"等待次数":0,"等待总时长":0}
+{"level":"INFO","time":"2026-04-02T18:04:06.463+0800","caller":"mysql/stats.go:18","msg":"MySQL连接池状态","最大连接数":500,"当前打开数":1,"使用中":0,"空闲":1,"等待次数":0,"等待总时长":0}
+{"level":"INFO","time":"2026-04-02T18:04:11.464+0800","caller":"mysql/stats.go:18","msg":"MySQL连接池状态","最大连接数":500,"当前打开数":1,"使用中":0,"空闲":1,"等待次数":0,"等待总时长":0}
